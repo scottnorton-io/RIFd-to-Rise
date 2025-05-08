@@ -77,7 +77,7 @@ You’ll walk away with a clear action plan.
 
 ---
 
-## [Read the Full Guide →](https://github.com/your-repo-url](https://github.com/scottnorton-io/RIFd-to-Rise/blob/main/Guide.md)
+## [Read the Full Guide →](https://github.com/scottnorton-io/RIFd-to-Rise/blob/main/Guide.md)
 
 ---
 
